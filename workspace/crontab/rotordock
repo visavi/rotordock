@@ -1,0 +1,1 @@
+* * * * * rotordock php /var/www/app/cron.php 2>&1
